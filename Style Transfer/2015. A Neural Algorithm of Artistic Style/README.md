@@ -28,3 +28,11 @@
 * Composition VII
 
 ![Composition VII](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2015.%20A%20Neural%20Algorithm%20of%20Artistic%20Style/Examples/70_Buisness_Composition.bmp)
+
+* Оригинал
+
+![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2015.%20A%20Neural%20Algorithm%20of%20Artistic%20Style/Examples/Zelenograd.jpg)
+
+* Starry Night
+
+![Starry Night](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2015.%20A%20Neural%20Algorithm%20of%20Artistic%20Style/Examples/70_Zelenograd_Starry.bmp)
