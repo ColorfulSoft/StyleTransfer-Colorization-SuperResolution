@@ -16,6 +16,11 @@
 * .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
 
 # Примеры работы
+
+* Оригинал
+
+![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Content.jpg)
+
 * Composition VII
 
 ![Composition VII](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Composition_VII_Tubingen.bmp)
