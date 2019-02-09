@@ -36,3 +36,5 @@
 * Starry Night
 
 ![Starry Night](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2015.%20A%20Neural%20Algorithm%20of%20Artistic%20Style/Examples/70_Zelenograd_Starry.bmp)
+
+Все изображения стилизованы за 70 итераций. На моём ноутбуке с Intel(R) Core(TM) i3-4030U CPU @ 1.90 GHz и 4 ГБ оперативной памяти, одна итерация в данном разрешении требует примерно 200 секунд.
