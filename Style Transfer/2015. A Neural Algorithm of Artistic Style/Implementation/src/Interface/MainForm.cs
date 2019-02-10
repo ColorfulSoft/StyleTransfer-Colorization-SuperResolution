@@ -102,7 +102,7 @@ namespace NeuralArt
         public void Initialize()
         {
             //-> MainForm
-            this.Text = "C# implementation of Gatys's neural style algorithm.";
+            this.Text = "A Neural Algorithm of Artistic Style";
             this.Icon = Icon.FromHandle((new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("MainIcon.jpg"))).GetHicon());
             this.ClientSize = new Size(868, 376);
             this.MaximizeBox = false;
