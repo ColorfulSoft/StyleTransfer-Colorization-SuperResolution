@@ -45,6 +45,10 @@
 
 ![Udnie](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Udnie_Result.png)
 
+* Waves
+
+![Waves](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Waves_Result.png)
+
 * Wreck
 
 ![Wreck](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Wreck_Result.png)
