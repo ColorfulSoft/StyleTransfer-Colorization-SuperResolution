@@ -3,7 +3,7 @@
 
 # Разработчики метода: Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
 * Авторская реализация: https://github.com/leongatys/PytorchNeuralStyleTransfer
-* Текст работы: https://arxiv.org/abs/1508.06576
+* Текст работы: https://arxiv.org/abs/1508.06576 (либо в папке Paper)
 
 # Компиляция и запуск приложения
 1. Зайти в папку Implementation
