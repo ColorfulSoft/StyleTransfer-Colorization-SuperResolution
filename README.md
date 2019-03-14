@@ -3,4 +3,5 @@
 
 # Новости
 
+* [14.03.2019] Оптимизирован слой ConvTranspose2D в TensorZoom.
 * [11.03.2019] Размещена реализация работы "Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration" Люкаса Шенга.
