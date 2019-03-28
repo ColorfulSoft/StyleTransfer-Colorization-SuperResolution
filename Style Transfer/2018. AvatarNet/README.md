@@ -3,7 +3,7 @@
 
 # Разработчики метода: Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang
 * Авторская реализация: https://github.com/LucasSheng/avatar-net
-* Текст работы: https://arxiv.org/abs/1805.03857
+* Текст работы: https://arxiv.org/abs/1805.03857 (доступен также в папке Paper)
 
 # Компиляция и запуск приложения
 1. Зайти в папку Implementation
