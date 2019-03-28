@@ -183,7 +183,7 @@ namespace NeuralArt
             return Result;
         }
 
-        private static Tensor StyleSwap(Tensor Content, Tensor Style, int patch_size = 3)
+        private static Tensor StyleSwap(Tensor Content, Tensor Style, int patch_size = 5)
         {
             var style_kernels = extract_image_patches(Style, patch_size, 1);
             var style_kernels_norm = l2_norm(style_kernels);
