@@ -3,6 +3,6 @@
 
 # Новости
 
-* [28.03.2019] Открыт новый раздел "Colorization" и размещена реализация работы "Colorful Image Colorization" Ричарда Шенга; исправлена реализация AvatarNet и обновлены примеры к .
+* [28.03.2019] Открыт новый раздел "Colorization" и размещена реализация работы "Colorful Image Colorization" Ричарда Шенга; исправлена реализация AvatarNet и обновлены примеры к ней.
 * [14.03.2019] Оптимизирован слой ConvTranspose2D в TensorZoom.
 * [11.03.2019] Размещена реализация работы "Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration" Люкаса Шенга.
