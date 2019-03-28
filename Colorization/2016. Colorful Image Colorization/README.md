@@ -1,5 +1,5 @@
 # Colorful Image Colorization
-Окрашивание чёрно-белых изображений на базе нейросети Ричарда Шенга 1 - й версии.
+Окрашивание чёрно-белых изображений с помощью нейросети Ричарда Шенга 1 - й версии.
 
 # Разработчики метода: Richard Zhang, Phillip Isola, Alexei A. Efros
 * Авторская реализация: https://github.com/richzhang/colorization
