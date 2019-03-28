@@ -40,17 +40,17 @@ namespace NeuralArt
         public Tensor Decode(Tensor Content, Tensor[] Styles)
         {
             var Temp = Layers.StyleDecorator(Content, Styles[3]);
-            Temp = Layers.Upsample2D(Temp);
-            if(this.Step != null)
-            {
-                this.Step(1f / 22f * 100f);
-            }
             Temp = Layers.Conv2D3x3(Temp, this.Data.Conv4_1_Weights, this.Data.Conv4_1_Biases);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
             }
             Temp = Layers.ReLU(Temp);
+            if(this.Step != null)
+            {
+                this.Step(1f / 22f * 100f);
+            }
+            Temp = Layers.Upsample2D(Temp);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
@@ -86,17 +86,17 @@ namespace NeuralArt
                 this.Step(1f / 22f * 100f);
             }
             Temp = Layers.AdaIN(Temp, Styles[2]);
-            Temp = Layers.Upsample2D(Temp);
-            if(this.Step != null)
-            {
-                this.Step(1f / 22f * 100f);
-            }
             Temp = Layers.Conv2D3x3(Temp, this.Data.Conv3_1_Weights, this.Data.Conv3_1_Biases);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
             }
             Temp = Layers.ReLU(Temp);
+            if(this.Step != null)
+            {
+                this.Step(1f / 22f * 100f);
+            }
+            Temp = Layers.Upsample2D(Temp);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
@@ -112,17 +112,17 @@ namespace NeuralArt
                 this.Step(1f / 22f * 100f);
             }
             Temp = Layers.AdaIN(Temp, Styles[1]);
-            Temp = Layers.Upsample2D(Temp);
-            if(this.Step != null)
-            {
-                this.Step(1f / 22f * 100f);
-            }
             Temp = Layers.Conv2D3x3(Temp, this.Data.Conv2_1_Weights, this.Data.Conv2_1_Biases);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
             }
             Temp = Layers.ReLU(Temp);
+            if(this.Step != null)
+            {
+                this.Step(1f / 22f * 100f);
+            }
+            Temp = Layers.Upsample2D(Temp);
             if(this.Step != null)
             {
                 this.Step(1f / 22f * 100f);
