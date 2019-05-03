@@ -5,6 +5,10 @@
 * Авторская реализация: https://github.com/jcjohnson/fast-neural-style
 * Текст работы: https://arxiv.org/abs/1603.08155 (доступен также в папке Paper)
 
+# Благодарности
+* Реализация алгоритма на JavaScript: https://github.com/reiinakano/fast-style-transfer-deeplearnjs
+* Реализация алгоритма на TensorFlow: https://github.com/lengstrom/fast-style-transfer
+
 # Компиляция и запуск приложения
 1. Зайти в папку Implementation
 2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Perceptual Losses for Real-Time Style Transfer and Super-Resolution.exe
