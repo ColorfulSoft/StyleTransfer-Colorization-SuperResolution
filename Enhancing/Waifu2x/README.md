@@ -4,6 +4,9 @@
 # Разработчик метода: Nagadomi(https://github.com/nagadomi)
 * Авторская реализация: https://github.com/nagadomi/waifu2x
 
+# Благодарности
+* Реализация на JavaScript: https://github.com/takuyaa/waifu2x-js
+
 # Компиляция и запуск приложения
 1. Зайти в папку Implementation
 2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Waifu2x.exe
