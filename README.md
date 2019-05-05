@@ -3,6 +3,7 @@
 
 # Новости
 
+* [05.05.2019] Реализована нейросеть Waifu2x(только супер-разрешение для фото)
 * [03.05.2019] Реализована работа Джастина Джонсона "Perceptual Losses for Real-Time Style Transfer and Super-Resolution".
 * [28.03.2019] Открыт новый раздел "Colorization" и размещена реализация работы "Colorful Image Colorization" Ричарда Шенга; исправлена реализация AvatarNet и обновлены примеры к ней.
 * [14.03.2019] Оптимизирован слой ConvTranspose2D в TensorZoom.
