@@ -3,6 +3,7 @@
 
 # Новости
 
+* [20.05.2019] Опубликовано несколько новых примеров к Алгоритму Гатиса.
 * [10.05.2019] Размещена реализация работы "Fast Patch-based Style Transfer of Arbitrary Style".
 * [05.05.2019] Реализована нейросеть Waifu2x(только супер-разрешение для фото).
 * [03.05.2019] Реализована работа Джастина Джонсона "Perceptual Losses for Real-Time Style Transfer and Super-Resolution".
