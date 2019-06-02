@@ -78,7 +78,7 @@ namespace NeuralArt
                     {
                         for(byte x = 0; x < 3; x++)
                         {
-                            f.SetW(x, y, z, br.ReadSingle());
+                            f.SetW(x, y, z, HalfHelper.HalfToSingle(br.ReadUInt16()));
                         }
                     }
                 }
@@ -95,7 +95,7 @@ namespace NeuralArt
             var f = Result.W;
             for(int i = 0; i < n; i++)
             {
-                f[i] = br.ReadSingle();
+                f[i] = HalfHelper.HalfToSingle(br.ReadUInt16());
             }
             return Result;
         }
