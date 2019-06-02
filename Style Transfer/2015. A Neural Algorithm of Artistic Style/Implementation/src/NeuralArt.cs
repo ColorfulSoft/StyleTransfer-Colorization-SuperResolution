@@ -169,7 +169,7 @@ namespace NeuralArt
             this.Initialize();
             this.ContentImageBox.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("Content.jpg"));
             this.StyleImageBox.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("Style.jpg"));
-            Program.Net = new VGG16(Assembly.GetExecutingAssembly().GetManifestResourceStream("Net.Model"));
+            Program.Net = new VGG16(Assembly.GetExecutingAssembly().GetManifestResourceStream("Net.HModel"));
             Program.Net.OnIterationDone += this.FixIteration;
             Program.Style = IOConverters.ImageToTensor(new Bitmap(StyleImageBox.Image, ContentImageBox.Image.Size));
             Program.Content = IOConverters.ImageToTensor(ContentImageBox.Image as Bitmap);
