@@ -1,5 +1,5 @@
 # A Neural Algorithm of Artistic Style
-Стилизация изображений с помощью итеративного алгоритма.
+Стилизация изображений с помощью итеративного алгоритма Гатиса.
 
 # Разработчики метода: Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
 * Авторская реализация: https://github.com/leongatys/PytorchNeuralStyleTransfer
