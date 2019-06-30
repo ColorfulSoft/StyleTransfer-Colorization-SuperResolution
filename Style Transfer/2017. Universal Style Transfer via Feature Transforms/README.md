@@ -19,36 +19,36 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Content.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Content.jpg)
 
 * Composition VII
 
-![Composition VII](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/CompositionVII_Result.png)
+![Composition VII](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/CompositionVII_Result.jpg)
 
 * La Muse
 
-![La Muse](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/LaMuse_Result.png)
+![La Muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/LaMuse_Result.jpg)
 
 * Rain Princess
 
-![Rain Princess](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/RainPrincess_Result.png)
+![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/RainPrincess_Result.jpg)
 
 * Seated Nude
 
-![Seated Nude](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/SeatedNude_Result.png)
+![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/SeatedNude_Result.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/StarryNight_Result.png)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/StarryNight_Result.jpg)
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Udnie_Result.png)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Udnie_Result.jpg)
 
 * Waves
 
-![Waves](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Waves_Result.png)
+![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Waves_Result.jpg)
 
 * Wreck
 
-![Wreck](https://github.com/ColorfulSoft/Demos/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Wreck_Result.png)
+![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Universal%20Style%20Transfer%20via%20Feature%20Transforms/Examples/Wreck_Result.jpg)
