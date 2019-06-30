@@ -248,17 +248,17 @@ namespace NeuralArt
             this.InitializeComponent();
             this.Closing += this.CloseWindowHandler;
             // Encoders
-            this.encoder1 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv1_1.model"), EncoderType.Conv1);
-            this.encoder2 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv2_1.model"), EncoderType.Conv2);
-            this.encoder3 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv3_1.model"), EncoderType.Conv3);
-            this.encoder4 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv4_1.model"), EncoderType.Conv4);
-            this.encoder5 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.model"), EncoderType.Conv5);
+            this.encoder1 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.HModel"), EncoderType.Conv1);
+            this.encoder2 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.HModel"), EncoderType.Conv2);
+            this.encoder3 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.HModel"), EncoderType.Conv3);
+            this.encoder4 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.HModel"), EncoderType.Conv4);
+            this.encoder5 = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised_conv5_1.HModel"), EncoderType.Conv5);
             // Decoders
-            this.decoder1 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv1_1.model"), DecoderType.Conv1);
-            this.decoder2 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv2_1.model"), DecoderType.Conv2);
-            this.decoder3 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv3_1.model"), DecoderType.Conv3);
-            this.decoder4 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv4_1.model"), DecoderType.Conv4);
-            this.decoder5 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv5_1.model"), DecoderType.Conv5);
+            this.decoder1 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv1_1.HModel"), DecoderType.Conv1);
+            this.decoder2 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv2_1.HModel"), DecoderType.Conv2);
+            this.decoder3 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv3_1.HModel"), DecoderType.Conv3);
+            this.decoder4 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv4_1.HModel"), DecoderType.Conv4);
+            this.decoder5 = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("feature_invertor_conv5_1.HModel"), DecoderType.Conv5);
             StyleTransfer.OnStepDone += this.ChangeProgressValue;
             this.Stylized = false;
             this.OpenContent.Click += this.OpenContentHandler;

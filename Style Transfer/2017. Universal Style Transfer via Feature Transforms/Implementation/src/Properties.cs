@@ -9,7 +9,7 @@ using System.Reflection;
     [assembly: AssemblyTitle("Universal Style Transfer via Feature Transforms")]
     [assembly: AssemblyDescription("Image style transfer")]
     [assembly: AssemblyConfiguration("")]
-    [assembly: AssemblyVersion("0.14.02.2019")]
+    [assembly: AssemblyVersion("0.30.06.2019")]
     [assembly: AssemblyCompany("ColorfulSoft")]
     [assembly: AssemblyProduct("Universal Style Transfer via Feature Transforms")]
     [assembly: AssemblyCopyright("© Брыкин Глеб Сергеевич")]
