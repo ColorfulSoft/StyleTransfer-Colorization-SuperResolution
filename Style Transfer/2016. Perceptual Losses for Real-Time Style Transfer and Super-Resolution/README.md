@@ -27,24 +27,24 @@
 
 * la Muse
 
-![la Muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/la_muse.png)
+![la Muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/la_muse.jpg)
 
 * Rain Princess
 
-![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/rain_princess.png)
+![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/rain_princess.jpg)
 
 * Scream
 
-![Scream](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/scream.png)
+![Scream](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/scream.jpg)
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/udnie.png)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/udnie.jpg)
 
 * Wave
 
-![Wave](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/wave.png)
+![Wave](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/wave.jpg)
 
 * Wreck
 
-![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/wreck.png)
+![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Perceptual%20Losses%20for%20Real-Time%20Style%20Transfer%20and%20Super-Resolution/Examples/wreck.jpg)
