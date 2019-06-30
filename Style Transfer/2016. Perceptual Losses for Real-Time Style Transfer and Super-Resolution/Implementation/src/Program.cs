@@ -179,7 +179,7 @@ namespace NeuralArt
             {
                 case 0:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.jpg"));
                     this.StyleImage.Invalidate();
@@ -193,7 +193,7 @@ namespace NeuralArt
                 }
                 case 1:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("rain_princess.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("rain_princess.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("rain_princess.jpg"));
                     this.StyleImage.Invalidate();
@@ -207,7 +207,7 @@ namespace NeuralArt
                 }
                 case 2:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("scream.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("scream.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("scream.jpg"));
                     this.StyleImage.Invalidate();
@@ -221,7 +221,7 @@ namespace NeuralArt
                 }
                 case 3:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("udnie.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("udnie.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("udnie.jpg"));
                     this.StyleImage.Invalidate();
@@ -235,7 +235,7 @@ namespace NeuralArt
                 }
                 case 4:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("wave.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("wave.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("wave.jpg"));
                     this.StyleImage.Invalidate();
@@ -249,7 +249,7 @@ namespace NeuralArt
                 }
                 case 5:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("wreck.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("wreck.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("wreck.jpg"));
                     this.StyleImage.Invalidate();
@@ -263,7 +263,7 @@ namespace NeuralArt
                 }
                 default:
                 {
-                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.model"));
+                    this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.HModel"));
                     this.transformer.Step += this.ChangeProgressValue;
                     this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.jpg"));
                     this.StyleImage.Invalidate();
@@ -283,7 +283,7 @@ namespace NeuralArt
         {
             this.InitializeComponent();
             this.Closing += this.CloseWindowHandler;
-            this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.model"));
+            this.transformer = new Transformer(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.HModel"));
             this.StyleImage.Image = new Bitmap(Assembly.GetExecutingAssembly().GetManifestResourceStream("la_muse.jpg"));
             this.transformer.Step += this.ChangeProgressValue;
             this.OpenContent.Click += this.OpenContentHandler;
