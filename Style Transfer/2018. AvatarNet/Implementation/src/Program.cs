@@ -216,9 +216,9 @@ namespace NeuralArt
             this.InitializeComponent();
             this.Closing += this.CloseWindowHandler;
             // Encoder
-            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Encoder.model"));
+            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Encoder.HModel"));
             // Decoder
-            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Decoder.model"));
+            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Decoder.HModel"));
             StyleTransfer.OnStepDone += this.ChangeProgressValue;
             this.Stylized = false;
             this.OpenContent.Click += this.OpenContentHandler;
