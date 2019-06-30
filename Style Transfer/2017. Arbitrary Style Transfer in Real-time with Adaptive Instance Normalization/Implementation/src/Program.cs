@@ -222,8 +222,8 @@ namespace NeuralArt
             this.InitializeComponent();
             this.Closing += this.CloseWindowHandler;
             this.TotalProgress = 0f;
-            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Decoder.model"));
-            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Encoder.model"));
+            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Decoder.HModel"));
+            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("Encoder.HModel"));
             this.decoder.Step += this.ChangeProgressValue;
             this.encoder.Step += this.ChangeProgressValue;
             this.Stylized = false;
