@@ -10,6 +10,7 @@
 
 # Новости
 
+* [30.06.2019] Обновлена реализация "Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration": веса конвертированы в формат Half, демонстрационные изображения конвертированы в формат jpeg.
 * [30.06.2019] Обновлена реализация "Perceptual Losses for Real-Time Style Transfer and Super-Resolution": веса конвертированы в формат Half, демонстрационные изображения конвертированы в формат jpeg.
 * [30.06.2019] Обновлена реализация "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization": веса конвертированы в формат Half, демонстрационные изображения конвертированы в формат jpeg.
 * [30.06.2019] Обновлены примеры к TensorZoom.
