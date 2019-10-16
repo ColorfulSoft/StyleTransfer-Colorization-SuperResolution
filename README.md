@@ -10,6 +10,7 @@
 
 # Новости
 
+* [16.10.2019] Оптимизирована разреженная свёртка (dilated conv2d) в Colorful Image Colorization.
 * [16.10.2019] Добавлен значок репозитория.
 * [30.06.2019] Обновлена реализация "Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration": веса конвертированы в формат Half, демонстрационные изображения конвертированы в формат jpeg.
 * [30.06.2019] Обновлена реализация "Perceptual Losses for Real-Time Style Transfer and Super-Resolution": веса конвертированы в формат Half, демонстрационные изображения конвертированы в формат jpeg.
