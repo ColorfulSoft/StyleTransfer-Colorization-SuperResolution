@@ -92,7 +92,7 @@ namespace NeuralEnhance
             this.Controls.Add(this.OriginalSettings);
             // -> ResultSettings
             this.ResultSettings = new GroupBox();
-            this.ResultSettings.Text = "Оригинал";
+            this.ResultSettings.Text = "Результат";
             this.ResultSettings.Width = 276;
             this.ResultSettings.Height = 321;
             this.ResultSettings.Top = 10;
