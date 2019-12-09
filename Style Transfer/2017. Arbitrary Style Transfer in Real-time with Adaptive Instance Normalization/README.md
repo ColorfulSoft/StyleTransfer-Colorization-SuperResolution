@@ -19,40 +19,40 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Content.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Content.jpg)
 
 * Composition VII
 
-![Composition VII](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Composition_VII_Tubingen.jpg)
+![Composition VII](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Composition_VII_Tubingen.jpg)
 
 * la Muse
 
-![la Muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/La_Muse_Tubingen.jpg)
+![la Muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/La_Muse_Tubingen.jpg)
 
 * Rain Princess
 
-![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Rain_Princess_Tubingen.jpg)
+![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Rain_Princess_Tubingen.jpg)
 
 * Scream
 
-![Scream](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Scream_Tubingen.jpg)
+![Scream](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Scream_Tubingen.jpg)
 
 * Seated Nude
 
-![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Seated_Nude_Tubingen.jpg)
+![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Seated_Nude_Tubingen.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Starry_Tubingen.jpg)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Starry_Tubingen.jpg)
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Udnie_Tubingen.jpg)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Udnie_Tubingen.jpg)
 
 * Waves
 
-![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Wave_Tubingen.jpg)
+![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Wave_Tubingen.jpg)
 
 * The shipwreck of the minotaur
 
-![The shipwreck of the minotaur](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Wreck_Tubingen.jpg)
+![The shipwreck of the minotaur](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2017.%20Arbitrary%20Style%20Transfer%20in%20Real-time%20with%20Adaptive%20Instance%20Normalization/Examples/Wreck_Tubingen.jpg)
