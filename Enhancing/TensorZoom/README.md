@@ -18,8 +18,8 @@ SRGAN - подобная нейросеть для увеличения изоб
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/TensorZoom/Examples/Kryukovo.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/TensorZoom/Examples/Kryukovo.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/TensorZoom/Examples/Result.jpg)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/TensorZoom/Examples/Result.jpg)
