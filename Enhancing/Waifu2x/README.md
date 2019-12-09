@@ -21,16 +21,16 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Enhancing/Waifu2x/Examples/Tubingen.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Tubingen.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/Demos/blob/master/Enhancing/Waifu2x/Examples/Tubingen.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Tubingen.png)
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Enhancing/Waifu2x/Examples/Zelenograd.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Zelenograd.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/Demos/blob/master/Enhancing/Waifu2x/Examples/Zelenograd.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Zelenograd.png)
