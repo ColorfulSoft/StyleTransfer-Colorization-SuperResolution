@@ -19,32 +19,32 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Original.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Original.jpg)
 
 * Candy
 
-![Candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Candy.jpg)
+![Candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Candy.jpg)
 
 * Rain Princess
 
-![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/RainPrincess.jpg)
+![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/RainPrincess.jpg)
 
 * Seated Nude
 
-![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/SeatedNude.jpg)
+![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/SeatedNude.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/StarryNight.jpg)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/StarryNight.jpg)
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Udnie.jpg)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Udnie.jpg)
 
 * Waves
 
-![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Waves.jpg)
+![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Waves.jpg)
 
 * Wreck
 
-![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Wreck.jpg)
+![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Wreck.jpg)
