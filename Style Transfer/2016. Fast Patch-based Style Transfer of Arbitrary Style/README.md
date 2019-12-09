@@ -19,13 +19,13 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Tubingen.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Tubingen.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Starry_Tubingen.png)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Starry_Tubingen.png)
 
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Udnie_Tubingen.png)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Udnie_Tubingen.png)
