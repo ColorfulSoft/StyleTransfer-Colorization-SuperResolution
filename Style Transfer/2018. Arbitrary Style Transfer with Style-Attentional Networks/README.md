@@ -19,36 +19,36 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/chicago.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/chicago.jpg)
 
 * candy
 
-![candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/candy.jpg)
+![candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/candy.jpg)
 
 * la muse
 
-![la muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/la_muse.jpg)
+![la muse](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/la_muse.jpg)
 
 * rain princess
 
-![rain princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/rain_princess.jpg)
+![rain princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/rain_princess.jpg)
 
 * seated nude
 
-![seated nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/seated_nude.jpg)
+![seated nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/seated_nude.jpg)
 
 * starry night
 
-![starry night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/starry_night.jpg)
+![starry night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/starry_night.jpg)
 
 * starry night over the rhone
 
-![starry night over the rhone](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/starry_night_over_the_rhone.jpg)
+![starry night over the rhone](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/starry_night_over_the_rhone.jpg)
 
 * style11
 
-![style11](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/style11.jpg)
+![style11](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/style11.jpg)
 
 * udnie
 
-![udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/udnie.jpg)
+![udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/udnie.jpg)
