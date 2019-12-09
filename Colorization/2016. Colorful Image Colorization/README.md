@@ -19,24 +19,24 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/1.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/1.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_1.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_1.png)
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/2.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/2.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_2.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_2.png)
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/3.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/3.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/Demos/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_3.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_3.png)
