@@ -1,7 +1,7 @@
 # Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 Одна из самых известных нейросетей для увеличения изображений изображений.
 
-# Разработчики метода: Nagadomi(Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi)
+# Разработчики метода: Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi
 * Текст работы: https://arxiv.org/abs/1609.04802
 * Реализация на tensorlayer: https://github.com/tensorlayer/srgan
 
