@@ -1,7 +1,7 @@
 # Let there be Color! Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification
 Окрашивание чёрно-белых изображений с помощью одного из самых мощных нейронных алгоритмов.
 
-# Разработчики метода: Satoshi Iizuka Edgar Simo-Serra Hiroshi Ishikawa
+# Разработчики метода: Satoshi Iizuka, Edgar Simo-Serra, Hiroshi Ishikawa
 * Авторская реализация: https://github.com/satoshiiizuka/siggraph2016_colorization
 * Текст работы и сопроводительные материалы: http://iizuka.cs.tsukuba.ac.jp/projects/colorization/en/ (доступен также в папке Paper)
 
