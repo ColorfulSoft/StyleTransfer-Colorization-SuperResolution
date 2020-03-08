@@ -12,6 +12,8 @@
 
 # Новости
 
+* [08.03.2020] Добавлена реализация "Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors
+for Automatic Image Colorization with Simultaneous Classification".
 * [09.12.2019] Добавлена реализация "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"(SRGAN). Исправлена ошибка отображения демонстрационных изображений к реализациям.
 * [09.11.2019] Исправление мелких ошибок.
 * [16.10.2019] Оптимизирована разреженная свёртка (dilated conv2d) в Colorful Image Colorization.
