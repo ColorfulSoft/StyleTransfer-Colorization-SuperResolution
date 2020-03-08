@@ -1,4 +1,4 @@
-# Let there be Color! Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification[Uploading in progress... Wait for a few hours.]
+# Let there be Color! Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification
 Окрашивание чёрно-белых изображений с помощью одного из самых мощных нейронных алгоритмов.
 
 # Разработчики метода: Satoshi Iizuka, Edgar Simo-Serra, Hiroshi Ishikawa
