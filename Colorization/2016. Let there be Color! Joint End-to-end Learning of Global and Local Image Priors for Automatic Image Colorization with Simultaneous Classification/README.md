@@ -19,7 +19,7 @@
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/1.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/1.jpg)
 
 * Результат
 
