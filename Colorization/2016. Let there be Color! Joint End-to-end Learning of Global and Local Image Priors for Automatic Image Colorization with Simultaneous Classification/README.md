@@ -1,14 +1,14 @@
-# Colorful Image Colorization
-Окрашивание чёрно-белых изображений с помощью нейросети Ричарда Шенга 1 - й версии.
+# Let there be Color! Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification
+Окрашивание чёрно-белых изображений с помощью одного из самых мощных нейронных алгоритмов.
 
-# Разработчики метода: Richard Zhang, Phillip Isola, Alexei A. Efros
-* Авторская реализация: https://github.com/richzhang/colorization
-* Текст работы: https://arxiv.org/abs/1603.08511 (доступен также в папке Paper)
+# Разработчики метода: Satoshi Iizuka Edgar Simo-Serra Hiroshi Ishikawa
+* Авторская реализация: https://github.com/satoshiiizuka/siggraph2016_colorization
+* Текст работы и сопроводительные материалы: http://iizuka.cs.tsukuba.ac.jp/projects/colorization/en/ (доступен также в папке Paper)
 
 # Компиляция и запуск приложения
 1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Colorful Image Colorization.exe
-3. Пройти в папку Release и запустить Colorful Image Colorization.exe
+2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Let there be Color!.exe
+3. Пройти в папку Release и запустить Let there be Color!.exe
 
 # Минимальные системные требования
 * Windows XP и выше. Разрядность любая.
@@ -23,20 +23,20 @@
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_1.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_1.png)
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/2.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/2.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_2.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_2.png)
 
 * Оригинал
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/3.jpg)
+![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/3.jpg)
 
 * Результат
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_3.png)
+![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_3.png)
