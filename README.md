@@ -12,6 +12,7 @@
 
 # Новости
 
+* [23.05.2020] Добавлена реализация "ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution". Добавлен раздел FAQ(Часто Задаваемые Вопросы).
 * [08.03.2020] Добавлена реализация "Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors
 for Automatic Image Colorization with Simultaneous Classification". Исправлены мелкие ошибки.
 * [09.12.2019] Добавлена реализация "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"(SRGAN). Исправлена ошибка отображения демонстрационных изображений к реализациям.
