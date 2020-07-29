@@ -1,5 +1,5 @@
 # Let there be Color! Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification
-Color black-and-white images using one of the most powerful neural algorithms.
+Coloring black-and-white images using one of the most powerful neural algorithms.
 
 # The developers of the method: Satoshi Iizuka, Edgar Simo-Serra, Hiroshi Ishikawa
 * Author's implementation: https://github.com/satoshiiizuka/siggraph2016_colorization
