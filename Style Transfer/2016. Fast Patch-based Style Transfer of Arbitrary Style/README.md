@@ -1,31 +1,31 @@
 # Fast Patch-based Style Transfer of Arbitrary Style
-Быстрая стилизация изображений под любой стиль.
+Fast image styling for any style.
 
-# Разработчики метода: Tian Qi Chen, Mark Schmidt
-* Авторская реализация: https://github.com/rtqichen/style-swap
-* Текст работы: https://arxiv.org/abs/1612.04337 (доступен также в папке Paper)
+# The developers of the method: Tian Qi Chen, Mark Schmidt
+* Author's implementation: https://github.com/rtqichen/style-swap
+* Paper: https://arxiv.org/abs/1612.04337 (also available in the "Paper" folder)
 
-# Компиляция и запуск приложения
-1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Fast Patch-based Style Transfer of Arbitrary Style.exe
-3. Пройти в папку Release и запустить Fast Patch-based Style Transfer of Arbitrary Style.exe
+# Compile and launch the app
+1. Go to the "Implementation" folder
+2. Run the "Compile.bat" file. The "Release" folder will be created, and the "Fast Patch-based Style Transfer of Arbitrary Style.exe" file will appear in it
+3. Go to the "Release" folder and run "Fast Patch-based Style Transfer of Arbitrary Style.exe"
 
-# Минимальные системные требования
-* Windows XP и выше. Разрядность любая.
-* 1 ГБ оперативной памяти.
-* .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
+# Minimum system requirements
+* Windows XP and higher. Any bit depth.
+* 1 GB of RAM.
+* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
 
-# Примеры работы
+# Demo:
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Tubingen.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Tubingen.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Starry_Tubingen.png)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Starry_Tubingen.png)
 
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Udnie_Tubingen.png)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2016.%20Fast%20Patch-based%20Style%20Transfer%20of%20Arbitrary%20Style/Examples/Udnie_Tubingen.png)
