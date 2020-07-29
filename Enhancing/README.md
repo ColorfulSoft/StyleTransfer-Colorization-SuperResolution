@@ -1,2 +1,2 @@
 # Enhancing
-Реализации популярных методов улучшения изображений (удаление артефактов сжатия, увеличение изображений) на C#.
+Implementation of the popular methods for image enhancement (removal of compression artifacts, image magnification) in C#.
