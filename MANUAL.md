@@ -1,24 +1,24 @@
-# Подготовка к запуску
+# Preparing for launch
 
-* Убедитесь, что Ваш компьютер поддерживает технологию Microsoft .NET Framework. Для запуска кодов потребуется версия не ниже 3.0.
-* Если Вы используете ос Windows XP, то Вам, вероятнее всего, придётся вручную установить Microsoft .NET Framework. Найти подробные инструкции по его установке можно на официальном сайте Microsoft: https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=17718
-* Если Вы используете ос Windows 7 и выше, то у Вас уже установлен Microsoft .NET Framework 4.0 либо выше. В таком случае, никаких действий предпринимать не нужно.
+* Make sure that your computer supports the Microsoft .NET Framework technology. To run the codes, you will need a version of 3.0 or higher.
+* If you are using Windows XP, you will most likely have to manually install the Microsoft .NET Framework. You can find detailed instructions for installing it on the official Microsoft website: https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=17718
+* If you are using Windows 7 or higher, you already have Microsoft .NET Framework 4.0 or higher installed. In this case, no action is necessary.
 
-# Загрузка и запуск приложений
+# Loading and launching apps
 
-* Скачайте и распакуйте текущий репозиторий.
-* Если возможно, поместите распакованную папку в корень какого-либо диска. Это необходимо для уменьшения длины имени файла, т.к. компоненты .NET Framework иногда могут работать некорректно с длинными именами.
-* Выберите интересующую Вас реализацию и перейдите в её каталог. Например, если Вы хотите запустить A Neural Algorithm of Artistic Style, то Вам необходимо перейти в папку StyleTransfer-Colorization-SuperResolution\Style Transfer\2015. A Neural Algorithm of Artistic Style\
-* В папке выбранной реализации перейдите в папку Implementation. Она содержит непосредственно исходные коды проекта. В папке Вы найдёте файл Compile.bat. Запустите его, и подожите несколько секунд. Должна появиться папка Release, содержащая один единственный файл - готовую к запуску программу.
-* Запустите полученную программу и следуйте инструкциям в открывшемся окне. Полученный исполнимый файл можно перемещать и даже запускать на других компьютерах, на которых установлен .NET Framework. Никаких специфических зависимостей программа не имеет.
-* _Некоторые специфические указания можно найти в файле README.md в папке выбранного Вами проекта._
+* Download and unpack the current repository.
+* If possible, place the unpacked folder in the root of a disk. This is necessary to reduce the length of the file name, because components of .NET Framework can sometimes work incorrectly with long names.
+* Select the implementation you are interested in and go to its catalog. For example, if you want to run a Neural Algorithm of Artistic Style, you need to go to the "StyleTransfer-Colorization-SuperResolution\Style Transfer\2015. A Neural Algorithm of Artistic Style\"
+* In the folder of the selected implementation, go to the implementation folder. It contains the source code of the project itself. In the folder you will find the "Compile.bat" file. Launch it, and wait a few seconds. You should see a "Release" folder containing a single file-the program that is ready to run.
+* Run the resulting program and follow the instructions in the window that opens. The resulting executable file can be moved and even run on other computers where it is installed .NET Framework. The program does not have any specific dependencies.
+* _Some specific instructions can be found in the README.md file in the folder of the project you selected._
 
-# Системные требования
+# System requirements
 
-* Объём оперативной памяти: не меньше 1 ГБ.
-* Операционная система: Windows XP и выше; x64/x86.
-* Центральный процессор: специфических требований нет. Чем мощнее - тем лучше.
-* Объём свободного места на диске для компиляции одного любого приложения: 200 МБ.
-* _Не рекомендуется запускать представленные приложения в виртуальной машине._
+* RAM: at least 1 GB.
+* Operating system: Windows XP and higher; x64/x86.
+* CPU: no specific requirements. The more powerful the better.
+* The amount of free disk space to compile any single application: 200 MB.
+* _We do not recommend running the presented applications in a VM._
 
-__Актуальность данных: 11.06.2019__
+__The relevance of the data: 11.06.2019__
