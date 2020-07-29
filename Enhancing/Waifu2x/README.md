@@ -1,36 +1,36 @@
 # Waifu2x
-Одна из самых известных нейросетей для комплексного улучшения изображений.
+One of the most famous neural networks for complex image enhancement.
 
-# Разработчик метода: Nagadomi(https://github.com/nagadomi)
-* Авторская реализация: https://github.com/nagadomi/waifu2x
+# The developer of the method: Nagadomi(https://github.com/nagadomi)
+* Author's implementation: https://github.com/nagadomi/waifu2x
 
-# Благодарности
-* Реализация на JavaScript: https://github.com/takuyaa/waifu2x-js
+# Gratitudes
+* JavaScript implementation: https://github.com/takuyaa/waifu2x-js
 
-# Компиляция и запуск приложения
-1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Waifu2x.exe
-3. Пройти в папку Release и запустить Waifu2x.exe
+# Compile and launch the app
+1. Go to the "Implementation" folder
+2. Run the "Compile.bat" file. The "Release" folder will be created, and the "Waifu2x.exe" file will appear in it
+3. Go to the "Release" folder and run "Waifu2x.exe"
 
-# Минимальные системные требования
-* Windows XP и выше. Разрядность любая.
-* 1 ГБ оперативной памяти.
-* .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
+# Minimum system requirements
+* Windows XP and higher. Any bit depth.
+* 1 GB of RAM.
+* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
 
-# Примеры работы:
+# Demo:
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Tubingen.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/Waifu2x/Examples/Tubingen.jpg)
 
-* Результат
+* Result
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Tubingen.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/Waifu2x/Examples/Tubingen.png)
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Zelenograd.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/Waifu2x/Examples/Zelenograd.jpg)
 
-* Результат
+* Result
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Enhancing/Waifu2x/Examples/Zelenograd.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Enhancing/Waifu2x/Examples/Zelenograd.png)
