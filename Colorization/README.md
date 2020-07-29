@@ -1,2 +1,2 @@
 # Colorization
-Реализации некоторых известных методов нейросетевого окрашивания чёрно-белых изображений на C#.
+Implementations of some well-known methods for neural network coloring of black-and-white images in C#.
