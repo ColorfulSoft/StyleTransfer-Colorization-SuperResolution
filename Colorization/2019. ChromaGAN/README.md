@@ -1,42 +1,42 @@
 # ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution
-Окрашивание чёрно-белых изображений с помощью генеративно-состязательной нейронной сети.
+Coloring black-and-white images using a generative-adversarial neural network.
 
-# Разработчики метода: Patricia Vitoria, Lara Raad, Coloma Ballester
-* Авторская реализация: https://github.com/pvitoria/ChromaGAN
-* Текст работы и сопроводительные материалы: https://arxiv.org/abs/1907.09837 (доступен также в папке Paper)
+# The developers of the method: Patricia Vitoria, Lara Raad, Coloma Ballester
+* Author's implementation: https://github.com/pvitoria/ChromaGAN
+* Paper: https://arxiv.org/abs/1907.09837 (also available in the "Paper" folder)
 
-# Компиляция и запуск приложения
-1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл ChromaGAN.exe
-3. Пройти в папку Release и запустить ChromaGAN.exe
+# Compile and launch the app
+1. Go to the "Implementation" folder
+2. Run the "Compile.bat" file. The "Release" folder will be created, and the "ChromaGAN.exe" file will appear in it
+3. Go to the "Release" folder and run "ChromaGAN.exe"
 
-# Минимальные системные требования
-* Windows XP и выше. Разрядность любая.
-* 1 ГБ оперативной памяти.
-* .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
+# Minimum system requirements
+* Windows XP and higher. Any bit depth.
+* 1 GB of RAM.
+* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
 
-# Примеры работы:
+# Demo:
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/1.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/1.jpg)
 
-* Результат
+* Result
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/Result_1.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_1.png)
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/2.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/2.jpg)
 
-* Результат
+* Result
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/Result_2.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_2.png)
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/3.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/3.jpg)
 
-* Результат
+* Result
 
-![Результат](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Colorization/2019.%20ChromaGAN/Examples/Result_3.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_3.png)
