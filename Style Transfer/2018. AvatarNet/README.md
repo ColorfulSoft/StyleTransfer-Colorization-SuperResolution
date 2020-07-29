@@ -1,50 +1,50 @@
 # Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration
-Стилевой декоратор
+Style decorator
 
-# Разработчики метода: Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang
-* Авторская реализация: https://github.com/LucasSheng/avatar-net
-* Текст работы: https://arxiv.org/abs/1805.03857 (доступен также в папке Paper)
+# The developers of the method: Lu Sheng, Ziyi Lin, Jing Shao, Xiaogang Wang
+* Author's implementation: https://github.com/LucasSheng/avatar-net
+* Paper: https://arxiv.org/abs/1805.03857 (also available in the "Paper" folder)
 
-# Компиляция и запуск приложения
-1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл AvatarNet.exe
-3. Пройти в папку Release и запустить AvatarNet.exe
+# Compile and launch the app
+1. Go to the "Implementation" folder
+2. Run the "Compile.bat" file. The "Release" folder will be created, and the "AvatarNet.exe" file will appear in it
+3. Go to the "Release" folder and run "AvatarNet.exe"
 
-# Минимальные системные требования
-* Windows XP и выше. Разрядность любая.
-* 1 ГБ оперативной памяти.
-* .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
+# Minimum system requirements
+* Windows XP and higher. Any bit depth.
+* 1 GB of RAM.
+* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
 
-# Примеры работы:
+# Demo:
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Original.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Original.jpg)
 
 * Candy
 
-![Candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Candy.jpg)
+![Candy](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Candy.jpg)
 
 * Rain Princess
 
-![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/RainPrincess.jpg)
+![Rain Princess](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/RainPrincess.jpg)
 
 * Seated Nude
 
-![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/SeatedNude.jpg)
+![Seated Nude](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/SeatedNude.jpg)
 
 * Starry Night
 
-![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/StarryNight.jpg)
+![Starry Night](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/StarryNight.jpg)
 
 * Udnie
 
-![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Udnie.jpg)
+![Udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Udnie.jpg)
 
 * Waves
 
-![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Waves.jpg)
+![Waves](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Waves.jpg)
 
 * Wreck
 
-![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20AvatarNet/Examples/Wreck.jpg)
+![Wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20AvatarNet/Examples/Wreck.jpg)
