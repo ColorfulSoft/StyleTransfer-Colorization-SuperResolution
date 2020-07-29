@@ -2,7 +2,7 @@
 * Transfer a style using the Attention mechanism.
 
 # The authors of the paper: Dae Young Park, Kwang Hee Lee
-* The author's implementation has closed source code.
+* The author's implementation has closed source code. This code is based on an implementation by Gleb S. Brykin (https://github.com/GlebBrykin/SANET).
 * Paper: https://arxiv.org/abs/1812.02342 (also available in the Paper folder)
 
 # Compile and launch the app
@@ -52,3 +52,11 @@
 * udnie
 
 ![udnie](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/udnie.jpg)
+
+* wreck
+
+![wreck](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/wreck.jpg)
+
+* wave
+
+![wave](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/wave.jpg)
