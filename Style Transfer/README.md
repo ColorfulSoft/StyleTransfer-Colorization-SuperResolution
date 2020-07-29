@@ -1,2 +1,2 @@
 # Style Transfer
-Реализации популярных алгоритмов стилизации изображений на языке C#.
+Implementations of popular image styling algorithms in C#.
