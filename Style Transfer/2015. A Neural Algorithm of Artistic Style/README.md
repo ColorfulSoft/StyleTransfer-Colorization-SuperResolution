@@ -3,7 +3,7 @@ Image styling using the iterative Gatys's algorithm.
 
 # The developers of the method: Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
 * Author's implementation: https://github.com/leongatys/PytorchNeuralStyleTransfer
-* Paper: https://arxiv.org/abs/1508.06576 ((also available in the "Paper" folder)
+* Paper: https://arxiv.org/abs/1508.06576 (also available in the "Paper" folder)
 
 # Compile and launch the app
 1. Go to the "Implementation" folder
