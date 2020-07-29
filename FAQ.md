@@ -1,21 +1,21 @@
-# В данном разделе собраны часто задаваемые вопросы и официальные ответы на них. Прежде чем создавать Issue, изучите данную страницу.
+# This section contains frequently asked questions and official answers to them. Before creating an Issue, review this page.
 
-*Вопрос:* Для чего это нужно?
+*Question:* Why is this necessary?
 
-__*Ответ:* У данного репозитория много задач. Это и база кода, используемая при разработке новых программных продуктов, и учебное пособие для начинающих программистов и, конечно же, возможность быстро и без особых усилий запускать самые разные нейросетевые алгоритмы прямо на домашнем компьютере.__
+__*Answer:* This repository has many goals. This is a code base used in the development of new software products, a tutorial for novice programmers, and, of course, the ability to quickly and effortlessly run a variety of neural algorithms directly on your home computer.__
 
-*Вопрос:* Могу ли я использовать коды из данного репозитория?
+*Question:* Can I use codes from this repository?
 
-__*Ответ:* Данный вопрос следует задавать авторам оригинальных кодов. Реализации на C# из данного репозитория распространяются по лицензии MIT, разрешающей любое использование, однако представленные коды базируются на кодах сторонних разботчиков(авторов алгоритмов), которые имеют право установить на свой код любую лицензию. Таким образом, приоритет имеет не наша лицензия, а лицензия сторонних программистов(ссылки на них Вы можете найти в README - файле каждого алгоритма).__
+__*Answer:* This question should be asked to the authors of the original codes. C# implementations from this repository are distributed under the MIT license, which allows any use, but the presented codes are based on the codes of third-party developers (authors of algorithms), who have the right to install any license on their code. Thus, the priority is not our license, but the license of third - party programmers (you can find links to them in the README file of each algorithm).__
 
-*Вопрос:* Ваши реализации работают очень медленно! Почему? Как их ускорить?
+*Question:* Your implementations are very slow! Why? How do I speed them up?
 
-__*Ответ:* Действительно, реализации на C# работают значительно медленнее, чем оригиналы на Python/Lua/C/C++. Это объясняется отсутствием у представленных в репозитории кодов элементов аппаратного ускорения (например, поддержки SIMD или вычислений на GPU) и некоторыми затратами на JIT-компиляцию. Ускорить выполнение кодов можно либо изменением их архитектуры и использованием ряда сторонних библиотек, либо предоставлением бОльших вычислительных мощностей.__
+__*Answer:* Indeed, C# implementations run significantly slower than the Python/Lua/C/C++ originals. This is due to the lack of hardware acceleration elements in the code repository (for example, support for SIMD or GPU computing) and some JIT compilation costs. You can speed up code execution either by changing their architecture and using a number of third-party libraries, or by providing more computing power.__
 
-*Вопрос:* Почему именно C#, а не C/C++?
+*Question:* Why C# and not C/C++?
 
-__*Ответ:* Язык C#, в отличии от C/C++, - интуитивно понятный и безопасный. Кроме того, отказ от неуправляемого кода в пользу управляемого, позволяет сделать программу более аппаратно-независимой.__
+__*Answer:* The C# language, unlike C/C++, is intuitive and secure. In addition, abandoning unmanaged code in favor of managed code allows you to make the program more hardware-independent.__
 
-*Вопрос:* Защищены ли мои данные?
+*Question:* Is my data protected?
 
-__*Ответ:* Полная конфиденциальность пользователей является основой политики ColorfulSoft. Продукты организации никогда ничего не отправляют на сервера и не принимают. Ни статистику, ни пользовательские данные, ни что-либо ещё.__
+__*Answer:* Complete user privacy is the basis of our policy. The organization's products never send or accept anything to the servers. No statistics, no user data, no anything else.__
