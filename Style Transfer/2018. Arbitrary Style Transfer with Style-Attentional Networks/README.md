@@ -1,25 +1,25 @@
-# Arbitrary Style Transfer with Style-Attentional Networks [Pre-Release]
-* Передача стиля с помощью Attention - механизма.
+# Arbitrary Style Transfer with Style-Attentional Networks
+* Transfer a style using the Attention mechanism.
 
-# Разработчики метода: Dae Young Park, Kwang Hee Lee
-* Авторская реализация имеет закрытый исходный код.
-* Текст работы: https://arxiv.org/abs/1812.02342 (доступен также в папке Paper)
+# The authors of the paper: Dae Young Park, Kwang Hee Lee
+* The author's implementation has closed source code.
+* Paper: https://arxiv.org/abs/1812.02342 (also available in the Paper folder)
 
-# Компиляция и запуск приложения
-1. Зайти в папку Implementation
-2. Запустить файл Compile.bat. Будет создана папка Release, а в ней файл Arbitrary Style Transfer with Style-Attentional Networks.exe
-3. Пройти в папку Release и запустить Arbitrary Style Transfer with Style-Attentional Networks.exe
+# Compile and launch the app
+1. Go to the "Implementation" folder
+2. Run the "Compile.bat" file. The "Release" folder will be created, and the "Arbitrary Style Transfer with Style-Attentional Networks.exe" file will appear in it
+3. Go to "Release" folder and run "Arbitrary Style Transfer with Style-Attentional Networks.exe"
 
-# Минимальные системные требования
-* Windows XP и выше. Разрядность любая.
-* 1 ГБ оперативной памяти.
-* .NET Framework 4.0 и выше. Возможно, программа запустится и на .NET Framework 3.5.
+# Minimum system requirements
+* Windows XP and higher. Any bit depth.
+* 1 GB of RAM.
+* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
 
-# Примеры работы
+# Examples of work
 
-* Оригинал
+* Original
 
-![Оригинал](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/chicago.jpg)
+![Original](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/Russian/Style%20Transfer/2018.%20Arbitrary%20Style%20Transfer%20with%20Style-Attentional%20Networks/Examples/chicago.jpg)
 
 * candy
 
