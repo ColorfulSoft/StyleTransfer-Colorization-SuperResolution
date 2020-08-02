@@ -10,6 +10,8 @@ Demonstration implementations of neural network image processing algorithms. Eve
 
 # News
 
+* [02.08.2020] Fixed some bugs in "Arbitrary Style Transfer with Style-Attentional Networks".
+* [29.07.2020] Updated weights for "Arbitrary Style Transfer with Style-Attentional Networks", updated and added new examples. The implementation of this work is now an alpha version.
 * [23.05.2020] Added implementation of the "ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution". Added FAQ section (Frequently Asked Questions).
 * [08.03.2020] Added implementation of the "Let there be Color!: Joint End-to-End Learning of Global and Local Image Priors
 for Automatic Image Colorization with Simultaneous Classification". Fixed minor bugs.
