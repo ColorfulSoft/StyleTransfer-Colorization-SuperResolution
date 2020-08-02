@@ -159,7 +159,7 @@ namespace NeuralArt
                     {
                         for(int x = 0; x < w; x++)
                         {
-                            T.Set(x, y, z, br.ReadSingle());
+                            T.Set(x, y, z, HalfHelper.HalfToSingle(br.ReadUInt16()));
                         }
                     }
                 }
@@ -175,7 +175,7 @@ namespace NeuralArt
             var Result = new Tensor(1, 1, n);
             for(int i = 0; i < n; i++)
             {
-                Result.Set(0, 0, i, br.ReadSingle());
+                Result.Set(0, 0, i, HalfHelper.HalfToSingle(br.ReadUInt16()));
             }
             return Result;
         }
