@@ -220,11 +220,11 @@ namespace NeuralArt
             this.InitializeComponent();
             this.Closing += this.CloseWindowHandler;
             // Encoders
-            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised.model"));
+            this.encoder = new Encoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("vgg_normalised.HModel"));
             // Decoders
-            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("decoder.model"));
+            this.decoder = new Decoder(Assembly.GetExecutingAssembly().GetManifestResourceStream("decoder.HModel"));
             // SANet
-            this.SANet = new SANet(Assembly.GetExecutingAssembly().GetManifestResourceStream("SANet.model"));
+            this.SANet = new SANet(Assembly.GetExecutingAssembly().GetManifestResourceStream("SANet.HModel"));
             StyleTransfer.OnStepDone += this.ChangeProgressValue;
             this.Stylized = false;
             this.OpenContent.Click += this.OpenContentHandler;
