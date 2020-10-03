@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //*************************************************************************************************
 
-//-> Определение для слоя ConvTranspose2DLayer.
+//-> ConvTranspose2DLayer implementation.
 
 using System;
 using System.Threading.Tasks;
@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет реализацию слоёв нейросети.</summary>
     public static partial class Layers
     {
 
-        ///<summary>Реализует слой двумерной обратной свёртки.</summary>
-        ///<param name="input">Входной тензор.</param>
-        ///<param name="Filters">Фильтры.</param>
-        ///<param name="Biases">Смещения.</param>
+        ///<summary>Implements the Transposed Conv2d forward pass.</summary>
+        ///<param name="input">Input tensor.</param>
+        ///<param name="Filters">Filters.</param>
+        ///<param name="Biases">Biases.</param>
+        ///<param name="stride">Stride of convolution.</param>
         public static Tensor ConvTranspose2D(Tensor input, Tensor[] Filters, Tensor Biases, int stride = 2)
         {
             var OutputWidth = input.Width * stride;

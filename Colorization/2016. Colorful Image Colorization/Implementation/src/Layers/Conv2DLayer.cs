@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //*************************************************************************************************
 
-//-> Определение для слоя Conv2DLayer.
+//-> Conv2DLayer implementation.
 
 using System;
 using System.Threading.Tasks;
@@ -10,16 +10,15 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет реализацию слоёв нейросети.</summary>
     public static partial class Layers
     {
 
-        ///<summary>Реализует слой двумерной свёртки.</summary>
-        ///<param name="input">Входной тензор.</param>
-        ///<param name="Filters">Фильтры.</param>
-        ///<param name="Biases">Смещения.</param>
-        ///<param name="stride">Шаг.</param>
-        ///<param name="dilation">Разрежение.</param>
+        ///<summary>Implements the Conv2d forward pass.</summary>
+        ///<param name="input">Input tensor.</param>
+        ///<param name="Filters">Filters.</param>
+        ///<param name="Biases">Biases.</param>
+        ///<param name="stride">Stride of convolution.</param>
+        ///<param name="dilation">Dilation of convolution.</param>
         public static Tensor Conv2D(Tensor input, Tensor[] Filters, Tensor Biases, int stride = 1, int dilation = 1)
         {
             var OutputDepth = Filters.Length;

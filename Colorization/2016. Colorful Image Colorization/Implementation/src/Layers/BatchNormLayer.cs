@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //*************************************************************************************************
 
-//-> Определение для слоя BatchNormLayer.
+//-> BatchNormLayer implementation.
 
 using System;
 using System.Threading.Tasks;
@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет реализацию слоёв нейросети.</summary>
+    ///<summary>Layers of neural network.</summary>
     public static partial class Layers
     {
 
