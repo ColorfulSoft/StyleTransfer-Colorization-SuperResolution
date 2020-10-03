@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2020. Все права защищены.
+//* (C) ColorfulSoft corp., 2020. All Rights reserved.
 //*************************************************************************************************
 
-//-> Определение метода инициализации приложения.
+//-> Entry point and initialization.
 
 using System;
 using System.Drawing;
@@ -24,26 +24,26 @@ namespace NeuralColor
             set;
         }
 
-        ///<summary>Поток выполнения.</summary>
+        ///<summary>Colorization thread.</summary>
         private Thread Enhancer;
 
-        ///<summary>Останавливает процесс обработки. Это - обработчик события.</summary>
-        ///<param name="sender">Ссылка на объёкт(кнопку на форме), вызвавший метод.</param>
-        ///<param name="E">Аргументы.</param>
+        ///<summary>Stops the colorization process.</summary>
+        ///<param name="sender">Sender(control on MainForm).</param>
+        ///<param name="E">Arguments.</param>
         private void StopProcess(object sender, EventArgs E)
         {
             this.Enhancer.Abort();
             this.Enhancer = null;
             this.OpenOriginal.Enabled = true;
-            this.GenerateOrSaveResult.Text = "Окрасить";
+            this.GenerateOrSaveResult.Text = "Colorize";
             this.GenerateOrSaveResult.Click -= this.StopProcess;
             this.GenerateOrSaveResult.Click += this.StartProcess;
             this.Progress.Value = 0;
         }
 
-        ///<summary>Останавливает поток обработки, если он был запущен. Это - обработчик события.</summary>
-        ///<param name="sender">Ссылка на форму, вызвавшую метод.</param>
-        ///<param name="E">Аргументы.</param>
+        ///<summary>Stops the colorization process.</summary>
+        ///<param name="sender">Sender(MainForm).</param>
+        ///<param name="E">Arguments.</param>
         private void CloseWindowHandler(object sender, CancelEventArgs E)
         {
             if(this.Enhancer != null)
@@ -52,41 +52,41 @@ namespace NeuralColor
             }
         }
 
-        ///<summary>Запускает процесс обработки. Это - обработчик события.</summary>
-        ///<param name="sender">Ссылка на объёкт(кнопку на форме), вызвавший метод.</param>
-        ///<param name="E">Аргументы.</param>
+        ///<summary>Starts the colorization process.</summary>
+        ///<param name="sender">Sender(control on MainForm).</param>
+        ///<param name="E">Arguments.</param>
         private void StartProcess(object sender, EventArgs E)
         {
             this.TotalPercent = 0f;
             this.Enhancer = new Thread(this.Enhance);
-            this.GenerateOrSaveResult.Text = "Остановить процесс";
+            this.GenerateOrSaveResult.Text = "Stop";
             this.GenerateOrSaveResult.Click -= this.StartProcess;
             this.GenerateOrSaveResult.Click += this.StopProcess;
             this.OpenOriginal.Enabled = false;
             this.Enhancer.Start();
         }
 
-        ///<summary>Выполняет улучшение изображения. Метод выполняется в потоке Enhancer.</summary>
+        ///<summary>Colorizes the image. Should be runned only in Enhancer thread.</summary>
         private void Enhance()
         {
             var Grayscale = IOConverters.Preprocess(this.Original.Image as Bitmap);
             var UV = this.Net.Colorize(Grayscale.Item1, Grayscale.Item2);
             this.Result.Image = IOConverters.Deprocess(Grayscale.Item1, UV);
             this.Progress.Value = 0;
-            this.GenerateOrSaveResult.Text = "Сохранить";
+            this.GenerateOrSaveResult.Text = "Save";
             this.GenerateOrSaveResult.Click -= this.StopProcess;
             this.GenerateOrSaveResult.Click += this.SaveResult;
             this.OpenOriginal.Enabled = true;
         }
 
-        ///<summary>Открывает диалоговое окно сохранения результата. Это - обработчик события.</summary>
-        ///<param name="sender">Ссылка на объёкт(кнопку на форме), вызвавший метод.</param>
-        ///<param name="E">Аргументы.</param>
+        ///<summary>Saves the result.</summary>
+        ///<param name="sender">Sender(control on MainForm).</param>
+        ///<param name="E">Arguments.</param>
         private void SaveResult(object sender, EventArgs E)
         {
             var SFD = new SaveFileDialog();
-            SFD.Title = "Сохранить результат";
-            SFD.Filter = "Изображения (*.bmp)|*.bmp|Изображения (*.emf)|*.emf|Изображения (*.exif)|*.exif|Изображения (*.gif)|*.gif|Изображения (*.ico)|*.ico|Изображения (*.jpg)|*.jpg|Изображения (*.png)|*.png|Изображения (*.tiff)|*.tiff|Изображения (*.wmf)|*.wmf";
+            SFD.Title = "Save";
+            SFD.Filter = "Images (*.bmp)|*.bmp|Images (*.emf)|*.emf|Images (*.exif)|*.exif|Images (*.gif)|*.gif|Images (*.ico)|*.ico|Images (*.jpg)|*.jpg|Images (*.png)|*.png|Images (*.tiff)|*.tiff|Images (*.wmf)|*.wmf";
             if(SFD.ShowDialog() == DialogResult.OK)
             {
                 switch(SFD.FilterIndex)
@@ -152,20 +152,20 @@ namespace NeuralColor
             this.Progress.Value = System.Math.Min((int)this.TotalPercent, 100);
         }
 
-        ///<summary>Открывает диалоговое окно выбора контентного изображения. Это - обработчик события.</summary>
-        ///<param name="sender">Ссылка на объёкт(кнопку на форме), вызвавший метод.</param>
-        ///<param name="E">Аргументы.</param>
+        ///<summary>Opens the grayscale image.</summary>
+        ///<param name="sender">Sender(control on MainForm).</param>
+        ///<param name="E">Arguments.</param>
         private void OpenOriginalHandler(object sender, EventArgs E)
         {
             var OFD = new OpenFileDialog();
-            OFD.Title = "Открыть изображение";
-            OFD.Filter = "Изображения (*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf)|*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf|Все файлы|*.*";
+            OFD.Title = "Open";
+            OFD.Filter = "Images (*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf)|*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf|All files|*.*";
             if(OFD.ShowDialog() == DialogResult.OK)
             {
                 this.Original.Image = new Bitmap(OFD.FileName);
-                if(GenerateOrSaveResult.Text != "Окрасить")
+                if(GenerateOrSaveResult.Text != "Colorize")
                 {
-                    this.GenerateOrSaveResult.Text = "Окрасить";
+                    this.GenerateOrSaveResult.Text = "Colorize";
                     this.GenerateOrSaveResult.Click -= SaveResult;
                     this.GenerateOrSaveResult.Click += StartProcess;
                 }
