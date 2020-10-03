@@ -1,8 +1,8 @@
 ﻿//***********************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //***********************************************
 
-//-> Определение для слоя MaxPool2DLayer.
+//-> MaxPool2DLayer implementation.
 
 using System;
 using System.Threading.Tasks;
@@ -10,15 +10,13 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет реализацию слоёв нейросети.</summary>
     public static partial class Layers
     {
 
-        // В архитектуре нейросети все пулинги имеют размер фильтра 2x2. Для упрощения кода и оптимизации,
-        // эти значения были интегрированы в код.
+        // In the current neural network only pooling with stride = 2 and kernel = 2 is used so only it was implemented.
 
-        ///<summary>Реализует слой максимального пулинга.</summary>
-        ///<param name="input">Входные данные.</param>
+        ///<summary>MaxPool2d forward pass.</summary>
+        ///<param name="input">Input tensor.</param>
         public static Tensor MaxPool2D(Tensor input)
         {
             var OutputWidth = input.Width / 2;
