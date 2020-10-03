@@ -23,7 +23,7 @@ Coloring black-and-white images using the Richard Sheng 1st version neural netwo
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_1.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_1.jpg)
 
 * Original
 
@@ -31,7 +31,7 @@ Coloring black-and-white images using the Richard Sheng 1st version neural netwo
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_2.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_2.jpg)
 
 * Original
 
@@ -39,4 +39,4 @@ Coloring black-and-white images using the Richard Sheng 1st version neural netwo
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_3.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Colorful%20Image%20Colorization/Examples/Result_3.jpg)
