@@ -1,50 +1,50 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //*************************************************************************************************
 
-//-> Описание типа трёхмерного массива (тензора) и некоторых методов для работы с ним.
+//-> Tensor implementation.
 
 using System;
 
 namespace NeuralColor
 {
 
-    ///<summary>Представляет тензор (трёхмерный массив) чисел типа Single (float).</summary>
+    ///<summary>3-dimentional tensor of Single (float) data type.</summary>
     public sealed class Tensor
     {
 
-        ///<summary>Значения.</summary>
+        ///<summary>Values.</summary>
         public float[] W
         {
             get;
             set;
         }
 
-        ///<summary>Ширина.</summary>
+        ///<summary>Width.</summary>
         public int Width
         {
             get;
             set;
         }
 
-        ///<summary>Высота.</summary>
+        ///<summary>Height.</summary>
         public int Height
         {
             get;
             set;
         }
 
-        ///<summary>Глубина.</summary>
+        ///<summary>Depth.</summary>
         public int Depth
         {
             get;
             set;
         }
 
-        ///<summary>Инициализирует тензор (трёхмерный массив) с заданными размерами.</summary>
-        ///<param name="w">Ширина тензора.</param>
-        ///<param name="h">Высота тензора.</param>
-        ///<param name="d">Глубина тензора.</param>
+        ///<summary>Initializes the Tensor with specified size.</summary>
+        ///<param name="w">Width.</param>
+        ///<param name="h">Height.</param>
+        ///<param name="d">Depth.</param>
         public Tensor(int w, int h, int d)
         {
             this.W = new float[w * h * d];
@@ -53,20 +53,20 @@ namespace NeuralColor
             this.Depth = d;
         }
 
-        ///<summary>Получает значение с заданными координатами.</summary>
-        ///<param name="x">Координата X (По ширине).</param>
-        ///<param name="y">Координата Y (По высоте).</param>
-        ///<param name="z">Координата Z (По глубине).</param>
+        ///<summary>Gets the value.</summary>
+        ///<param name="x">X coordinate (for Width).</param>
+        ///<param name="y">Y coordinate (for Height).</param>
+        ///<param name="z">Z coordinate (for Depth).</param>
         public float Get(int x, int y, int z)
         {
             return this.W[((this.Width * y) + x) * this.Depth + z];
         }
 
-        ///<summary>Устанавливает значение с заданными координатами.</summary>
-        ///<param name="x">Координата X (По ширине).</param>
-        ///<param name="y">Координата Y (По высоте).</param>
-        ///<param name="z">Координата Z (По глубине).</param>
-        ///<param name="v">Значение.</param>
+        ///<summary>Sets the value.</summary>
+        ///<param name="x">X coordinate (for Width).</param>
+        ///<param name="y">Y coordinate (for Height).</param>
+        ///<param name="z">Z coordinate (for Depth).</param>
+        ///<param name="v">Value.</param>
         public void Set(int x, int y, int z, float v)
         {
             this.W[((this.Width * y) + x) * this.Depth + z] = v;
