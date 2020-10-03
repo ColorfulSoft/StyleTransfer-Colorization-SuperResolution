@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2020. Все права защищены.
+//* (C) ColorfulSoft corp., 2020. All Rights reserved.
 //*************************************************************************************************
 
-//-> Определение для Colornet.
+//-> Colornet implementation.
 
 using System;
 using System.IO;
@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет реализацию окрашивающей нейросети.</summary>
+    ///<summary>Implements the ColorNet neural network.</summary>
     public sealed class Colornet
     {
 
