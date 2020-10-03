@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2020. Все права защищены.
+//* (C) ColorfulSoft corp., 2020. All Rights reserved.
 //*************************************************************************************************
 
-//-> Методы преобразования System.Drawing.Bitmap <=> Tensor.
+//-> System.Drawing.Bitmap <=> Tensor converters.
 
 using System;
 using System.Drawing;
@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет методы для преобразований между System.Drawing.Bitmap и классом Tensor.</summary>
+    ///<summary>Implements the conversions for System.Drawing.Bitmap and Tensor.</summary>
     public static class IOConverters
     {
 

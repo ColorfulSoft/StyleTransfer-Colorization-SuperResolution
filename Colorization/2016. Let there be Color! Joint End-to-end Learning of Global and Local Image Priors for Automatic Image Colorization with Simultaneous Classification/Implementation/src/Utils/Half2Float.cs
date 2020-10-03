@@ -1,5 +1,5 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2019. Все права защищены.
+//* (C) ColorfulSoft corp., 2019. All Rights reserved.
 //*************************************************************************************************
 
 using System;
@@ -7,7 +7,7 @@ using System;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет инструмент для конвертирования весов из формата Half в формат Single(Float).</summary>
+    ///<summary>Converter for Half -> Single(Float) data types.</summary>
     public static class HalfHelper
     {
 
