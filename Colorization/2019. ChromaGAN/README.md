@@ -23,7 +23,7 @@ Coloring black-and-white images using a generative-adversarial neural network.
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_1.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_1.jpg)
 
 * Original
 
@@ -31,7 +31,7 @@ Coloring black-and-white images using a generative-adversarial neural network.
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_2.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_2.jpg)
 
 * Original
 
@@ -39,4 +39,4 @@ Coloring black-and-white images using a generative-adversarial neural network.
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_3.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2019.%20ChromaGAN/Examples/Result_3.jpg)
