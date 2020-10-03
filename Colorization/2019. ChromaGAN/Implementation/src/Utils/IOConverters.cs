@@ -1,8 +1,8 @@
 ﻿//*************************************************************************************************
-//* (C) ColorfulSoft, 2020. Все права защищены.
+//* (C) ColorfulSoft corp., 2020. All Rights reserved.
 //*************************************************************************************************
 
-//-> Методы преобразования System.Drawing.Bitmap <=> Tensor.
+//-> Conversions System.Drawing.Bitmap <=> Tensor.
 
 using System;
 using System.Drawing;
@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace NeuralColor
 {
 
-    ///<summary>Предоставляет методы для преобразований между System.Drawing.Bitmap и классом Tensor.</summary>
+    ///<summary>Conversions for System.Drawing.Bitmap and Tensor data types.</summary>
     public static class IOConverters
     {
 
@@ -175,8 +175,9 @@ namespace NeuralColor
             B = 200f * (Y - Z);
         }
 
-        ///<summary>Преобразует тензор в изображение.</summary>
-        ///<param name="Image">Тензор.</param>
+        ///<summary>Converts the Tensor to the Image.</summary>
+        ///<param name="l">Tensor.</param>
+        ///<param name="ab">Color tensor.</param>
         public static unsafe Bitmap Deprocess(Bitmap l, Tensor ab)
         {
             var tmp = new Bitmap(l, ab.Width, ab.Height);
