@@ -23,7 +23,7 @@ Coloring black-and-white images using one of the most powerful neural algorithms
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_1.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_1.jpg)
 
 * Original
 
@@ -31,7 +31,7 @@ Coloring black-and-white images using one of the most powerful neural algorithms
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_2.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_2.jpg)
 
 * Original
 
@@ -39,4 +39,4 @@ Coloring black-and-white images using one of the most powerful neural algorithms
 
 * Result
 
-![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_3.png)
+![Result](https://github.com/ColorfulSoft/StyleTransfer-Colorization-SuperResolution/blob/master/Colorization/2016.%20Let%20there%20be%20Color!%20Joint%20End-to-end%20Learning%20of%20Global%20and%20Local%20Image%20Priors%20for%20Automatic%20Image%20Colorization%20with%20Simultaneous%20Classification/Examples/Result_3.jpg)
