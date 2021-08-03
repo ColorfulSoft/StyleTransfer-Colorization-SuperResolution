@@ -4,7 +4,8 @@ set "RELEASE=Release\"
 
 del /f /q /s "%RELEASE%"
 
-csc.exe -target:exe -optimize -DEBUG -out:"BuildWeights.exe" -r:"System.dll" -r:"System.IO.dll" "BuildWeights.cs" && BuildWeights.exe
+csc.exe -target:exe -optimize -DEBUG -out:"BuildWeights.exe" -r:"System.dll" -r:"System.IO.dll" "BuildWeights.cs"
+BuildWeights.exe
 del /f /q "BuildWeights.*"
 
 move "ColorfulImageColorization.model" "src\Resources\"
