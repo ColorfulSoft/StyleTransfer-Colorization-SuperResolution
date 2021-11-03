@@ -10,6 +10,7 @@ Demonstration implementations of neural network image processing algorithms. Eve
 
 # News
 
+* **[03.11.2021] The process of refactoring and optimizing codes has been launched. The repository is being reorganized.**
 * [03.10.2020] The entire Colorization block is now completely in English! Descriptions, comments, and the program interface are now in the same language.
 * [02.08.2020] Fixed some bugs in "Arbitrary Style Transfer with Style-Attentional Networks".
 * [29.07.2020] Updated weights for "Arbitrary Style Transfer with Style-Attentional Networks", updated and added new examples. The implementation of this work is now an alpha version.
