@@ -11,9 +11,9 @@ Image styling using adaptive instance normalization.
 3. Go to the "Release" folder and run "Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.exe"
 
 # Minimum system requirements
-* Windows XP and higher. Any bit depth.
-* 1 GB of RAM.
-* .NET Framework 4.0 and higher. The program may also run on .NET Framework 3.5.
+* Windows 7 and higher. Any bit depth.
+* 2 GB of free RAM.
+* .NET Framework 4.5 and higher.
 
 # Demo:
 
