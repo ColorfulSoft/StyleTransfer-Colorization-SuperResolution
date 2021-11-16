@@ -240,7 +240,7 @@ namespace ColorfulSoft.NeuralArt.AdaIN
               this.OpenStyle.Click += delegate
               {
                   var OFD = new OpenFileDialog();
-                  OFD.Title = "Open content image";
+                  OFD.Title = "Open style image";
                   OFD.Filter = "Images (*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf)|*.bmp; *.emf; *.exif; *.gif; *.ico; *.jpg; *.png; *.tiff; *.wmf|All files|*.*";
                   if(OFD.ShowDialog() == DialogResult.OK)
                   {
